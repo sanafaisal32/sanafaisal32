@@ -1,73 +1,67 @@
-# 👋 Hi there, I'm Sana Faisal — Gen AI & Machine Learning Developer
+<h1 align="center">Sana Faisal</h1>
+<h3 align="center">Gen AI & Machine Learning Developer | LLMs • NLP • MLOps</h3>
 
-Welcome to my GitHub! I'm a passionate and results-driven developer specializing in **Generative AI**, **Machine Learning**, and **Deep Learning**. I enjoy building intelligent systems that learn, adapt, and generate — from large language models to custom ML solutions that solve real-world problems.
 
-## 🧠 About Me
+## 💫 About Me
 
-- 🔭 Currently working on: Fine-tuning LLMs & building custom Gen AI pipelines.
-- 💡 Interests: NLP, Diffusion Models, LLMs (OpenAI, LLaMA, Mistral), Reinforcement Learning, and MLOps.
-- 🚀 Open to collaborations on ML, Gen AI, and applied AI research.
-- 📫 How to reach me: [rosepetal875@example.com] 
+- 🔭 Currently working on: Fine-tuning custom LLMs & building Gen AI pipelines  
+- 💬 Ask me about: NLP, Diffusion Models, Prompt Engineering, or Model Deployment  
+- 🎯 Interests: Transformers, Reinforcement Learning, Multimodal AI, RAG pipelines  
+- 🌐 Open to: Collaborations, research partnerships, and freelance opportunities  
+- 📫 Reach me at: **[rosepetal875@example.com](mailto:rosepetal875@example.com)**  
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🔬 Machine Learning & AI
-- 🧠 Supervised & Unsupervised Learning
-- 🧩 Deep Learning (CNNs, RNNs, Transformers)
-- 💬 Natural Language Processing (NLP)
-- 🎨 Generative AI (LLMs, Diffusion Models, GANs)
-- 📈 Time Series Forecasting
+### 🤖 ML & AI Expertise
+- ✅ Supervised & Unsupervised Learning
+- 🧠 Deep Learning (CNNs, RNNs, Transformers)
+- 🗣️ Natural Language Processing (NLP)
+- 🎨 Generative AI (LLMs, Diffusion, GANs)
+- 📈 Time Series & Forecasting
 - 🧪 Reinforcement Learning
 
-### 📦 Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+### 📚 Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### ⚙️ DevOps & MLOps
-- 🔄 CI/CD for ML (GitHub Actions, MLflow, W&B)
-- 🐳 Docker, FastAPI, REST APIs
-- ☁️ Cloud: AWS, GCP (Vertex AI), Hugging Face Hub
-- 🔍 Experiment Tracking & Model Monitoring
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
+### ⚙️ DevOps / MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weights-and-biases&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## 🔬 Areas of Focus
 
-- 🎨 **Generative AI**: LLMs, Diffusion Models, Prompt Engineering, Retrieval-Augmented Generation (RAG)
-- 🤖 **Machine Learning**: Supervised & Unsupervised Learning, Model Deployment, Experiment Tracking
-- 🧩 **MLOps**: CI/CD for ML, Model Serving, Monitoring & Scaling
-- 🌐 **NLP Applications**: Chatbots, Summarizers, Transformers, Q&A Systems
+| Category | Details |
+|---------|---------|
+| 💡 **Generative AI** | LLMs, Diffusion Models, Prompt Engineering, RAG |
+| 📊 **ML Systems** | Model Training, Evaluation, Experiment Tracking |
+| 🧪 **MLOps** | CI/CD for ML, Model Serving, Monitoring, API Integration |
+| 🧠 **NLP Applications** | Chatbots, QA Systems, Summarizers, Transformers |
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔍 **LLM Chatbot with RAG** | Retrieval-augmented chatbot using LangChain, OpenAI, and FAISS. |
+| 🎨 **Text-to-Image Diffusion Engine** | Custom diffusion model for generating high-fidelity images. |
+| 🧪 **ML Experiment Tracker** | Built with FastAPI + MongoDB + W&B for seamless experiment logging. |
+
 
 ---
 
-## 📌 Featured Projects
-
-Here are a few projects I'm proud of:
-
-- 🔍 **LLM Chatbot with RAG** – Retrieval-augmented generation chatbot using LangChain + OpenAI + FAISS  
-  `#LLMs #LangChain #VectorSearch`
-
-- 🎨 **Text-to-Image Diffusion Engine** – Built a Stable Diffusion-like image generation system  
-  `#DiffusionModels #GenerativeAI`
-
-- 🧪 **ML Experiment Tracker** – Custom tool using FastAPI + MongoDB + W&B integration  
-  `#MLOps #ExperimentTracking`
 
 
 
